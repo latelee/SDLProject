@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SDL_test", "SDL_test.vcproj", "{F585D4A0-6E8A-45F0-A1D4-A198D09571AE}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F585D4A0-6E8A-45F0-A1D4-A198D09571AE}.Debug.ActiveCfg = Debug|Win32
+		{F585D4A0-6E8A-45F0-A1D4-A198D09571AE}.Debug.Build.0 = Debug|Win32
+		{F585D4A0-6E8A-45F0-A1D4-A198D09571AE}.Release.ActiveCfg = Release|Win32
+		{F585D4A0-6E8A-45F0-A1D4-A198D09571AE}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
